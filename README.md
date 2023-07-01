@@ -11,4 +11,12 @@ Para desenvolver esta Landing Page me baseei no mockup disponibilizado pela DIO 
 
 [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6)
 
+<h4>Tecnologias usadas no Desafio:</h4>
+
+<table>
+ <tr>
+   <td>HTML5</td>
+   <td>CSS3</td>
+ </tr>
+     
 
